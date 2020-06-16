@@ -23,4 +23,4 @@ References :
 
 - My code architecture was heavily influenced from here : https://github.com/zhixuhao/unet, https://www.tensorflow.org/tutorials/images/segmentation
 
-- conceptually this page was really helpfull : https://glassboxmedicine.com/2020/01/21/segmentation-u-net-mask-r-cnn-and-medical-applications/#:~:text=In%20instance%20segmentation%2C%20each%20pixel,be%20used%20for%20instance%20segmentation.531
+- conceptually this page was really helpful : https://glassboxmedicine.com/2020/01/21/segmentation-u-net-mask-r-cnn-and-medical-applications/#:~:text=In%20instance%20segmentation%2C%20each%20pixel,be%20used%20for%20instance%20segmentation.531
