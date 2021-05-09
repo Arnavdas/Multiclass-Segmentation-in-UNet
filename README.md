@@ -28,4 +28,4 @@ References :
 - conceptually this page was really helpful : https://glassboxmedicine.com/2020/01/21/segmentation-u-net-mask-r-cnn-and-medical-applications/#:~:text=In%20instance%20segmentation%2C%20each%20pixel,be%20used%20for%20instance%20segmentation.531
 
 
-Note that as of now github doesn't render notebooks properly so you can take the links of these notebooks(just open the notebooks above abd copy the link in the address bar) and paste it in [nbviewer](https://nbviewer.jupyter.org/) searchbar
+Note that as of now github doesn't render notebooks properly so you can take the links of these notebooks(just open the notebooks above and copy the link in the address bar) and paste it in [nbviewer](https://nbviewer.jupyter.org/) searchbar
